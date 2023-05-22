@@ -9,3 +9,12 @@ To successfully run this program, make sure you have the latest version of OpenC
 3) Open the "face_train.py" in a suitable code editor and add the name of the person(in the same manner as it is named in the folder name) in the "people" array.
 4) Run the "face_train.py" code.
 5) Run the "face_recognition.py" code to check the result.
+
+##Demo
+
+Here's a demo of the project:
+
+
+
+https://github.com/Bibek-Ray/Live-Face-Recognition/assets/82962780/3d75286e-6a57-4dc8-9057-870617c3913a
+
