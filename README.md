@@ -1,6 +1,6 @@
 # Live Face Recognition
 
-Using Python and OpenCV this project learns the facial feature and recognizes the person. After training it can recognise the person in a live video footage along with providing the confidence as well.
+Using Python and OpenCV this project learns the facial feature and recognizes the person. After training, it can recognise the person in a live video footage along with providing the confidence as well.
 
 To successfully run this program, make sure you have the latest version of OpenCV installed. Follow the following steps:
 
