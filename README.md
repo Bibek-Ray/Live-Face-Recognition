@@ -10,7 +10,7 @@ To successfully run this program, make sure you have the latest version of OpenC
 4) Run the "face_train.py" code.
 5) Run the "face_recognition.py" code to check the result.
 
-##Demo
+## Demo
 
 Here's a demo of the project:
 
